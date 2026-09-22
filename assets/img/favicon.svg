@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Shengyu Li">
+  <rect width="64" height="64" rx="16" fill="#0F6B52"/>
+  <path d="M46 20c0 14-8 22-20 22h-6C20 28 28 20 40 20z" fill="#8FD0B4" opacity=".85"/>
+  <text x="32" y="41" font-family="Georgia, 'Times New Roman', serif" font-size="22" fill="#FFFFFF" text-anchor="middle" letter-spacing="1">SL</text>
+</svg>
