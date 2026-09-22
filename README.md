@@ -1,5 +1,7 @@
 # 李圣宇 · 个人网站（可自己维护版）
 
+**线上地址：<https://lishengyulsy.github.io/> ｜ 仓库：<https://github.com/lishengyulsy/lishengyulsy.github.io>**
+
 一个不需要任何框架、不需要装软件就能维护的个人介绍网站：**改文字只改一个文件**，其余代码不用碰。
 中英文双语，手机 / 平板 / 电脑自适应，可以直接放到 GitHub Pages、Vercel、Netlify 或国内的对象存储上。
 
