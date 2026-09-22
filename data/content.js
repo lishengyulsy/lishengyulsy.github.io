@@ -99,7 +99,7 @@ window.SITE = {
   about: {
     title: { zh: '关于我', en: 'About Me' },
     lead: {
-      zh: '建筑环境与能源应用工程出身，伦敦大学学院（UCL）健康、福祉与可持续建筑硕士，现为华东建筑设计研究院绿色建筑工程师。',
+      zh: '建筑环境与能源应用工程出身，伦敦大学学院（UCL）健康、福利与可持续建筑硕士，现为华东建筑设计研究院绿色建筑工程师。',
       en: 'Trained in architectural environment engineering, with an MSc in Health, Wellbeing and Sustainable Buildings from UCL, now working as a green building engineer at ECADI.'
     },
     paragraphs: [
@@ -484,7 +484,7 @@ window.SITE = {
     items: [
       {
         school: { zh: '伦敦大学学院（UCL）', en: 'University College London' },
-        degree: { zh: '健康、福祉与可持续建筑 · 理学硕士', en: 'MSc Health, Wellbeing and Sustainable Buildings' },
+        degree: { zh: '健康、福利与可持续建筑 · 理学硕士', en: 'MSc Health, Wellbeing and Sustainable Buildings' },
         period: { zh: '2022.09 – 2023.12', en: 'Sep 2022 – Dec 2023' },
         location: { zh: '英国 · 伦敦', en: 'London, United Kingdom' },
         courses: {
